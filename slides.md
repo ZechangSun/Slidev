@@ -10,6 +10,7 @@ class: 'text-center'
 highlighter: shiki
 # show line numbers in code blocks
 lineNumbers: false
+download: true
 # some information about the slides, markdown enabled
 info: |
   ## Slidev Starter Template
